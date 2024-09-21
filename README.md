@@ -12,7 +12,8 @@ A simple text editor built using Java and Swing, with basic file operations and 
 
 ## Preview
 
-![Text Editor Preview](![image](https://github.com/user-attachments/assets/dc7f280e-f5d2-4ea1-afaa-2919984e2428))
+![Text Editor Preview]![image](https://github.com/user-attachments/assets/8db8a814-cef3-442b-a757-3349995af1ab)
+
 
 ## How to Run
 
