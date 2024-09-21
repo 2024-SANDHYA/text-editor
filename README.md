@@ -12,7 +12,7 @@ A simple text editor built using Java and Swing, with basic file operations and 
 
 ## Preview
 
-![Text Editor Preview](path-to-your-preview-image.png)
+![Text Editor Preview](![image](https://github.com/user-attachments/assets/dc7f280e-f5d2-4ea1-afaa-2919984e2428))
 
 ## How to Run
 
